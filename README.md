@@ -1,1 +1,7 @@
 # Twitter_Education_Trending_Analysis
+
+Our data is a collection of Twitter data (~100 million Tweets (~500GB)) that is stored in Google Cloud Storage, located in gs://msca-bdp-tweets/final_project.  These tweets are collected on the topics of education, schools, universities, learning, knowledge sharing, etc., but only a fraction of them would be directly related to either primary, secondary or higher education.
+
+Our objective is to identify whether Twitter can be considered a credible source of information, which reflects the emergence of important trends or topics in education.  One example of such topic would be “Florida math book ban”.  Is there any spikes in Twitter activity or any shifts in geographical distribution of Twitterers?  (Twitterer is the name given to those who use Twitter).  Based on our analysis, I can answer questions like are higher Tweet volumes reflective of the emergence of new hot topic in education?  Or they are more related to other events, such as sports, viral social media posts, university application cycles, being admitted to the university, etc.? 
+
+Who are these Twitterers that are tweeting about K-12 or Higher Education?  Are these mostly government institutions, universities and credible non-profit organizations?  Or random users tweeting about their schools, teachers, application processes, or attitudes toward going (or not going) to schools.  Are most of these messages being original content or just copies of the original tweets / retweets?
